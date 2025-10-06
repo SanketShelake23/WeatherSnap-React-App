@@ -1,0 +1,24 @@
+.weatherApp{
+    border : none;
+    width : 1000px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    background-color: linear-gradient(135deg, #00feba, #5b548a);
+    color: #fff;
+    border-radius: 15px;
+    margin-top: 30px;
+    box-shadow: 0 8px 12px rgba(160, 102, 255, 0.5);
+}
+
+@media (min-width: 601px) and (max-width: 1040px) {
+    .weatherApp{
+        width : 600px;
+    }
+}
+
+@media (max-width: 620px) {
+    .weatherApp{
+        width : 300px;
+    }
+}
