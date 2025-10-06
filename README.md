@@ -1,4 +1,5 @@
 # WeatherSnap
+![Mobile Responsiveness](src/assets/MobileResponsiveness.png)
 
 ## Description
 **WeatherSnap** is a responsive weather application built with **React** and **Material-UI**. Users can search for any city and instantly get current weather information, including temperature, humidity, minimum and maximum temperatures, and weather descriptions. The app features a clean, modern interface with a **pink-purple gradient title**, a tagline, and responsive design for desktop, tablet, and mobile devices.
@@ -11,7 +12,21 @@
 - Footer with social links and branding information.
 
 ---
+## Screenshots
 
+### 1. Mobile Responsiveness
+![Mobile Responsiveness](src/assets/MobileResponsiveness.png)
+
+### 2. Rainy Weather Display
+![Rainy Weather](src/assets/RainyWeather.png)
+
+### 3. Sunny Weather Display
+![Sunny Weather](src/assets/SunnyWeather.png)
+
+### 4. Winter Weather Display
+![Winter Weather](src/assets/WinterWeather.png)
+
+---
 ## Project Structure
 src/
 │
